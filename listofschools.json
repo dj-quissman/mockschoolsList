@@ -1,0 +1,74 @@
+[
+  {
+    "school": {
+      "applicationId": "uk_sfk_123456",
+      "organizationId": 123456,
+      "applicationUrl": "https://mock1.school.uk",
+      "name": "ApricotSchool",
+      "urn": "123456",
+      "dfeNumber": "123/1234",
+      "postalAddress": "TBC"
+    },
+    "requested_at": {
+      "date": "2023-02-02 12:02:00.000000",
+      "timezone_type": 3,
+      "timezone": "UTC"
+    },
+    "approved_at": null,
+    "approved_by": null
+  },
+  {
+    "school": {
+      "applicationId": "uk_sfk_234567",
+      "organizationId": 234567,
+      "applicationUrl": "https://mock2.school.uk",
+      "name": "Banana School",
+      "urn": "234567",
+      "dfeNumber": "234/5678",
+      "postalAddress": "TBC"
+    },
+    "requested_at": {
+      "date": "2023-02-02 12:02:00.000000",
+      "timezone_type": 3,
+      "timezone": "UTC"
+    },
+    "approved_at": null,
+    "approved_by": null
+  },
+  {
+    "school": {
+      "applicationId": "uk_sfk_345678",
+      "organizationId": 345678,
+      "applicationUrl": "https://mock3.school.uk",
+      "name": "Carrot School",
+      "urn": "345678",
+      "dfeNumber": "345/6789",
+      "postalAddress": "TBC"
+    },
+    "requested_at": {
+      "date": "2023-02-02 12:02:00.000000",
+      "timezone_type": 3,
+      "timezone": "UTC"
+    },
+    "approved_at": null,
+    "approved_by": null
+  },
+  {
+    "school": {
+      "applicationId": "uk_sfk_4567890",
+      "organizationId": 4567890,
+      "applicationUrl": "https://mock4.school.uk",
+      "name": "DangleBerry School",
+      "urn": "456789",
+      "dfeNumber": "456/7890",
+      "postalAddress": "TBC"
+    },
+    "requested_at": {
+      "date": "2023-02-02 12:02:00.000000",
+      "timezone_type": 3,
+      "timezone": "UTC"
+    },
+    "approved_at": null,
+    "approved_by": null
+  }
+]
