@@ -6,7 +6,7 @@
       "applicationUrl": "https://mock1.school.uk",
       "name": "ApricotSchool",
       "urn": "123456",
-      "dfeNumber": "123/1234",
+      "dfeNumber": "000/0002",
       "postalAddress": "TBC"
     },
     "requested_at": {
@@ -24,7 +24,7 @@
       "applicationUrl": "https://mock2.school.uk",
       "name": "Banana School",
       "urn": "234567",
-      "dfeNumber": "234/5678",
+      "dfeNumber": "000/0003",
       "postalAddress": "TBC"
     },
     "requested_at": {
@@ -42,7 +42,7 @@
       "applicationUrl": "https://mock3.school.uk",
       "name": "Carrot School",
       "urn": "345678",
-      "dfeNumber": "345/6789",
+      "dfeNumber": "000/0004",
       "postalAddress": "TBC"
     },
     "requested_at": {
@@ -60,7 +60,7 @@
       "applicationUrl": "https://mock4.school.uk",
       "name": "DangleBerry School",
       "urn": "456789",
-      "dfeNumber": "456/7890",
+      "dfeNumber": "000/0005",
       "postalAddress": "TBC"
     },
     "requested_at": {
